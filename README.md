@@ -10,3 +10,8 @@
   - [DQL](https://github.com/suraj4502/SQL-Material/blob/main/DQL.md)
   - [DCL](https://github.com/suraj4502/SQL-Material/blob/main/DCL.md)
   - [TCL](https://github.com/suraj4502/SQL-Material/blob/main/TCL.md)
+
+
+- Operators :
+    - [LIKE](https://github.com/suraj4502/SQL-Material/blob/main/like.md)
+    
